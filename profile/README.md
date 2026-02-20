@@ -37,6 +37,12 @@ All repositories in this organization are **private** and accessible to authoriz
 
 ---
 
+## 🚨 Security
+
+If you believe you've found a security issue, **please do not open a public issue.**  
+Email: **[contact@moss.land](mailto:contact@moss.land)**
+
+---
 
 <div align="center">
   <sub>© MOSSLAND LTD. · Singapore</sub>
