@@ -28,7 +28,8 @@ Keep this minimal: do NOT leak internals.
 
 ## 🧭 Looking for something?
 
-All repositories in this organization are **private** and accessible to authorized team members only.
+All production repositories in this organization are **private** and accessible to authorized team members only.
+The public `.github` repository exists solely to render this organization profile.
 
 | Looking for… | Go to |
 |-------------|-------|
